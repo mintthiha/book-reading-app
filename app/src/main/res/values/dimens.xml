@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="logo_size">100.dp</dimen>
+    <dimen name="small_padding">10.dp</dimen>
+    <dimen name="medium_padding">20.dp</dimen>
+    <dimen name="round_edge">10.dp</dimen>
+    <dimen name="small_width">10.dp</dimen>
+    <dimen name="small_height">10.dp</dimen>
+    <dimen name="medium_height">20.dp</dimen>
+    <dimen name="large_height">30.dp</dimen>
+    <dimen name="extra_large_height">50.dp</dimen>
+    <dimen name="book_image_size">125.dp</dimen>
+    <dimen name="book_card_height">400.dp</dimen>
+    <dimen name="book_card_width">150.dp</dimen>
+    <dimen name="small_border">1.dp</dimen>
+</resources>

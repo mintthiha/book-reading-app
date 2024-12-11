@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Lecture de Livres</string>
+    <string name="home_title">Accueil</string>
+    <string name="library_title">Bibliothèque</string>
+    <string name="reading_title">Lecture</string>
+    <string name="search_title">Recherche</string>
+    <string name="tableOfContent_title">Table des Matières</string>
+    <string name="home_welcome_message">Bienvenue dans l\'Application de Lecture de Livres !</string>
+    <string name="home_welcome_quote">« La lecture ne fournit à l\'esprit que des matériaux de connaissances ; c\'est la réflexion qui fait ce que nous lisons le nôtre. »</string>
+    <string name="john_locke">― John Locke</string>
+    <string name="go_to_library">Aller à votre Bibliothèque</string>
+    <string name="your_bookshelf">Votre Étagère</string>
+    <string name="search">Rechercher…</string>
+    <string name="search_within_book">Rechercher dans le Livre</string>
+    <string name="table_of_content">Table des Matières</string>
+    <string name="reading_mode">Mode Lecture</string>
+    <string name="logo">Logo</string>
+    <string name="book_template_name">Livre %1$s</string>
+    <string name="toggle_reading_mode">Basculer en mode lecture</string>
+    <string name="next_chapter">Prochain</string>
+    <string name="previous_chapter">Précédent</string>
+    <string name="available_for_download">Livres disponibles pour téléchargement</string>
+    <string name="download">Télécharger</string>
+    <string name="downloaded">Téléchargé</string>
+    <string name="books_currently_downloading">Des livres sont présentement en téléchargement...</string>
+    <string name="search_not_found">Aucun résultat trouvé dans les chapitres.</string>
+    <string name="enter_query">Entrez une requête pour rechercher !</string>
+    <string name="select_book">Veuillez sélectionner un livre !</string>
+    <string name="loading">En cours de téléchargement...</string>
+    <string name="search_error_three_char_min">Votre requête doit avoir au moins trois caractères.</string>
+    <string name="dots">...</string>
+    <string name="downloading">Téléchargement: </string>
+    <string name="percentage">%</string>
+
+    <string-array name="book_urls">
+        <item>https://www.gutenberg.org/cache/epub/1260/pg1260-h.zip</item>
+        <item>https://www.gutenberg.org/cache/epub/16/pg16-h.zip</item>
+        <item>https://www.gutenberg.org/cache/epub/164/pg164-h.zip</item>
+        <item>https://www.gutenberg.org/cache/epub/32/pg32-h.zip</item>
+        <item>https://www.gutenberg.org/cache/epub/17/pg17-h.zip</item>
+        <item>https://www.gutenberg.org/cache/epub/18/pg18-h.zip</item>
+    </string-array>
+</resources>

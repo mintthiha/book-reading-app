@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Book Reading App</string>
+    <string name="home_title">Home</string>
+    <string name="library_title">Library</string>
+    <string name="reading_title">Reading</string>
+    <string name="search_title">Search</string>
+    <string name="tableOfContent_title">Table Of Content</string>
+    <string name="home_welcome_message">Welcome to the Book Reading App!</string>
+    <string name="home_welcome_quote">“Reading furnishes the mind only with materials of knowledge; it is thinking that makes what we read ours.”</string>
+    <string name="john_locke">― John Locke</string>
+    <string name="go_to_library">Go To Library</string>
+    <string name="your_bookshelf">Your Bookshelf</string>
+    <string name="search">Search…</string>
+    <string name="search_within_book">Search Within Book</string>
+    <string name="table_of_content">Table Of Content</string>
+    <string name="reading_mode">Reading Mode</string>
+    <string name="logo">Logo</string>
+    <string name="book_template_name">Book %1$s</string>
+    <string name="toggle_reading_mode">Toggle Reading Mode</string>
+    <string name="next_chapter">Next</string>
+    <string name="previous_chapter">Back</string>
+    <string name="available_for_download">Books Available for Download</string>
+    <string name="download">Download</string>
+    <string name="downloaded">Downloaded</string>
+    <string name="books_currently_downloading">Books are currently being downloaded...</string>
+    <string name="search_not_found">Result not found in any chapters.</string>
+    <string name="enter_query">Enter a Query to Search!</string>
+    <string name="select_book">Please Select a Book!</string>
+    <string name="loading">Loading...</string>
+    <string name="search_error_three_char_min">Your query must be at least 3 characters long.</string>
+    <string name="dots">...</string>
+    <string name="downloading">Downloading: </string>
+    <string name="percentage">%</string>
+
+    <string-array name="book_urls">
+        <item>https://www.gutenberg.org/cache/epub/1260/pg1260-h.zip</item>
+        <item>https://www.gutenberg.org/cache/epub/16/pg16-h.zip</item>
+        <item>https://www.gutenberg.org/cache/epub/164/pg164-h.zip</item>
+        <item>https://www.gutenberg.org/cache/epub/32/pg32-h.zip</item>
+        <item>https://www.gutenberg.org/cache/epub/17/pg17-h.zip</item>
+        <item>https://www.gutenberg.org/cache/epub/18/pg18-h.zip</item>
+    </string-array>
+</resources>
